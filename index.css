@@ -4,11 +4,11 @@ h1{
 .div1{
     width: max-content;
     height: fit-content;
-    background: black;
+    background-color: black;
 }
 .div2{
     width: min-content;
     height: max-content;
-    background: aqua;
+    background-color: aqua;
 
  }

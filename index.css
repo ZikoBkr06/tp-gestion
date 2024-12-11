@@ -3,7 +3,7 @@ h1{
 }
 .div1{
     width: max-content;
-    height: max-content;
+    height: fit-content;
     background: black;
 }
 .div2{

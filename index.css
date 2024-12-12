@@ -2,13 +2,14 @@ h1{
     text-align: center;
 }
 .div1{
-    width: max-content;
-    height: fit-content;
-    background-color: black;
+    width: 100px;   
+     height: 100px;
+    background:black
 }
 .div2{
-    width: min-content;
-    height: max-content;
-    background-color: aqua;
+    width: 200px;
+    height: 100px;
+    background:blue
+    margin: top 10px;
 
  }
